@@ -1,0 +1,1 @@
+Leaves drop sticks when broken/decayed. Ganzu's favorite thing.
